@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VRage2.HUB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7af8b044f94111d17c3bedbad8ae42295d306352")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cd0b900ea629022f464a5d4edb091187a60c248")]
 [assembly: System.Reflection.AssemblyProductAttribute("VRage2.HUB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VRage2.HUB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
